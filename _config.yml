@@ -5,8 +5,8 @@ description: Resources hub for the Cyber Fortress military cyber exercise.
 markdown: kramdown
 permalink: pretty
 # Update these for your org if you have a custom domain or base path
-url: ""   # e.g., https://your-org.github.io
-baseurl: ""  # e.g., /cyber-fortress
+url: "https://anaesthetic.github.io"   # e.g., https://your-org.github.io
+baseurl: "cyber-fortress"  # e.g., /cyber-fortress
 # Optional social/metadata
 author: Cyber Fortress
 timezone: America/New_York

@@ -44,6 +44,7 @@ title: Cyber Fortress — Resources Hub
   </div>
 </div>
 
+<!--
 <div class="card">
   <h3>Day‑of Quick Links</h3>
   <ul>
@@ -54,3 +55,4 @@ title: Cyber Fortress — Resources Hub
   </ul>
   <p class="note">Replace the placeholders above with your actual domains prior to the event.</p>
 </div>
+-->

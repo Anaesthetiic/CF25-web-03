@@ -16,7 +16,7 @@ title: Cyber Fortress — Resources Hub
       Mattermost
     </h3>
     <p>Secure team chat for real‑time coordination, channels, and file sharing.</p>
-    <a class="btn" href={{ '/resources/mattermost/' | relative_url }}>View Guide</a>
+    <a class="btn" href="{{ '/resources/mattermost/' | relative_url }}">View Guide</a>
   </div>
   <div class="card">
     <h3>
@@ -24,7 +24,7 @@ title: Cyber Fortress — Resources Hub
       OpenCTI
     </h3>
     <p>Threat intelligence platform to model, share, and query intelligence objects.</p>
-    <a class="btn" href={{ '/resources/opencti/' | relative_url }}>View Guide</a>
+    <a class="btn" href="{{ '/resources/opencti/' | relative_url }}">View Guide</a>
   </div>
   <div class="card">
     <h3>
@@ -32,7 +32,7 @@ title: Cyber Fortress — Resources Hub
       Netmaker
     </h3>
     <p>WireGuard‑based virtual network overlay for team and lab connectivity.</p>
-    <a class="btn" href={{ '/resources/netmaker/' | relative_url }}>View Guide</a>
+    <a class="btn" href="{{ '/resources/netmaker/' | relative_url }}">View Guide</a>
   </div>
   <div class="card">
     <h3>

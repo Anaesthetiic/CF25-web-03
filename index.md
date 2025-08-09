@@ -40,7 +40,7 @@ title: Cyber Fortress — Resources Hub
       Authenticator Apps
     </h3>
     <p>Time‑based one‑time password (TOTP) apps to secure your accounts.</p>
-    <a class="btn" href="/resources/authenticators.md">Authenticator Tips →</a>
+    <a class="btn" href="{{ '/resources/authenticators/' | relative_url }}">Authenticator Tips →</a>
   </div>
 </div>
 

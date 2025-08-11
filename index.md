@@ -50,6 +50,13 @@ title: Cyber Fortress — Resources Hub
     <p>Check the current status and uptime of core exercise services.</p>
     <a class="btn" href="{{ '/resources/status/' | relative_url }}">View Status</a>
   </div>
+<div class="card">
+  <h3>
+    <img src="https://img.icons8.com/ios-filled/40/7cc5ff/cloud-network.png" alt="ION Network" style="vertical-align:middle;margin-right:10px;">
+    ION Network
+  </h3>
+  <p>Access the ION Network for exercise administration and network management.</p>
+  <a class="btn" href="https://ion.tradoc.army.mil/ion-admin/" target="_blank" rel="noopener">Go to ION Network</a>
 </div>
 
 <!--

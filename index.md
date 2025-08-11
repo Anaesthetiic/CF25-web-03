@@ -42,6 +42,14 @@ title: Cyber Fortress — Resources Hub
     <p>Time‑based one‑time password (TOTP) apps to secure your accounts.</p>
     <a class="btn" href="{{ '/resources/authenticators/' | relative_url }}">Authenticator Tips →</a>
   </div>
+  <div class="card">
+    <h3>
+      <img src="https://img.icons8.com/ios-filled/40/ffb300/server.png" alt="Server Status" style="vertical-align:middle;margin-right:10px;">
+      Server Status
+    </h3>
+    <p>Check the current status and uptime of core exercise services.</p>
+    <a class="btn" href="{{ '/resources/status/' | relative_url }}">View Status</a>
+  </div>
 </div>
 
 <!--
